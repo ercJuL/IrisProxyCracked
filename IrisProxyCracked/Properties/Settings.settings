@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)"
+              GeneratedClassNamespace="IrisProxyCracked.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="responseStr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SUCCESS</Value>
+    </Setting>
+    <Setting Name="HostsWhere" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Windows\System32\drivers\etc\hosts</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
